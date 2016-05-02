@@ -29,7 +29,7 @@ https://github.com/akumagamo/java-helloworld.git
 ### File / Folder Structure 
 
     +- HelloWorld.java
-    +- readme.md (this document)
+    +- README.md (this document)
   
 	  
 ### API / Commands / Usage
